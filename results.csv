@@ -1,0 +1,13 @@
+method,species,bioclip_x100,top1
+zero_shot_name,Abudefduf saxatilis,14.41,0.25
+zero_shot_name,Abudefduf septemfasciatus,1.96,0.0
+zero_shot_name,Acanthurus lineatus,13.73,0.25
+zero_shot_name,Acanthurus nigricauda,11.11,0.25
+zero_shot_taxonomy,Abudefduf saxatilis,12.66,0.5
+zero_shot_taxonomy,Abudefduf septemfasciatus,0.2,0.0
+zero_shot_taxonomy,Acanthurus lineatus,20.64,0.5
+zero_shot_taxonomy,Acanthurus nigricauda,9.1,0.25
+lora_taxonomy,Abudefduf saxatilis,19.1,0.25
+lora_taxonomy,Abudefduf septemfasciatus,12.08,0.0
+lora_taxonomy,Acanthurus lineatus,23.9,0.25
+lora_taxonomy,Acanthurus nigricauda,13.57,0.0
